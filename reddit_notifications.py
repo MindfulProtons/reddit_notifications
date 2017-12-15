@@ -1,5 +1,3 @@
-#Goals:
-#   - When clicked, the program should open reddit in the user's browser
 import praw
 import webbrowser
 from praw.models import Comment
