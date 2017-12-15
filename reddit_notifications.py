@@ -1,3 +1,6 @@
+# This script was created by MindfulProtons and Sollybird.
+# It is licensed under the GPLv3.
+
 import praw
 import webbrowser
 from praw.models import Comment
